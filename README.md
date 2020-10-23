@@ -1,2 +1,3 @@
 # AI
-Inteligencia artificial BÁSICA em python
+
+Базовый искусственный интеллект в Python
